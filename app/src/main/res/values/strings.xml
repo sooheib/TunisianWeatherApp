@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MétéoTunisie</string>
+    <string name="hello_world"></string>
+    <string name="action_settings"></string>
+    <string name="error_title">Pardon!</string>
+    <string name="error_message">Il avait une erreur. Veuillez réessayer.</string>
+    <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailable_message">Réseau est indisponible!</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_daily_forecast_data">Il a pas de données à afficher</string>
+    <string name="title_activity_hourly_forecast">HourlyForecastActivity</string>
+    <string name="toolbarTitle">This is the Toolbar</string>
+
+</resources>
